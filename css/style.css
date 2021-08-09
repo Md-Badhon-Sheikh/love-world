@@ -1,0 +1,38 @@
+
+.bg-honda-color{
+    background-color: #264653;
+}
+h1{
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 48px;
+}
+.text-color{
+    color:#E76F51;
+}
+.btn-honda{
+    background:#E76F51 ;
+}.img-grayscale{
+    filter: grayscale(100%);
+}
+.honda-btn{
+    color:#E76F51;
+    border:1px solid#E76F51;
+    padding: 10px 30px;
+}
+.honda-btn:hover{
+    color:white;
+    padding: 10px 30px;
+    background: #E76F51;
+}
+.icon-honda a{
+    font-size: 28px;
+    color: #181515be;
+    margin-right: 10px;
+}
+.bg-honda-footer{
+    background: #0B0D17;
+}
+.bg-honda-footer p{
+    word-spacing: 10px;
+}
